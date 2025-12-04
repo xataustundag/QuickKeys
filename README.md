@@ -78,12 +78,12 @@ Placeholder](https://via.placeholder.com/900x500?text=Installation+GIF+Placehold
   ---------------- -------------
   * Ctrl + Alt + Q   `appID = 1`
   * Ctrl + Alt + W   `appID = 2`
-  Ctrl + Alt + E   `appID = 3`
-  Ctrl + Alt + R   `appID = 4`
-  Ctrl + Alt + T   `appID = 5`
-  Ctrl + Alt + Y   `appID = 6`
-  Ctrl + Alt + U   `appID = 7`
-  Ctrl + Alt + I   `appID = 8`
+  * Ctrl + Alt + E   `appID = 3`
+  * Ctrl + Alt + R   `appID = 4`
+  * Ctrl + Alt + T   `appID = 5`
+  * Ctrl + Alt + Y   `appID = 6`
+  * Ctrl + Alt + U   `appID = 7`
+  * Ctrl + Alt + I   `appID = 8`
 
 ------------------------------------------------------------------------
 
