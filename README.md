@@ -38,7 +38,7 @@ configuration management.
 # 🚀 **Features**
 
   -----------------------------------------------------------------------
-  Feature           -         Description
+  Feature                     Description
   --------------------------- -------------------------------------------
   **Custom Shortcut Slots (8  Each slot has its own `appID` and
   total):**                    customizable action.

@@ -1,0 +1,107 @@
+{
+  "appName": "Quick Keys",
+  "version": "1.0.0",
+  "theme": {
+    "primaryColor": "#FFFFFF",
+    "backgroundColor": "#FA4F3C",
+    "textColor": "#000001",
+    "accentColor": "#000000"
+  },
+  "profiles": [
+    {
+      "id": "default",
+      "name": "Default Profile",
+      "isDefault": true,
+      "shortcuts": [
+        {
+          "id": "Program",
+          "appID": 1,
+          "name": "facebook.com",
+          "keyCombo": "Ctrl+Alt+Q",
+          "actionType": "open_program",
+          "actionData": {
+            "path": "",
+            "arguments": ""
+          }
+        },
+        {
+          "id": "open_netflix",
+          "appID": 2,
+          "name": "Open Netflix",
+          "keyCombo": "Ctrl+Alt+W",
+          "actionType": "open_url",
+          "actionData": {
+            "path": "https://www.netflix.com",
+            "arguments": ""
+          }
+        },
+        {
+          "id": "open_google",
+          "appID": 3,
+          "name": "Open Chrome",
+          "keyCombo": "Ctrl+Alt+E",
+          "actionType": "open_program",
+          "actionData": {
+            "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "arguments": ""
+          }
+        },
+        {
+          "id": "open_wschools",
+          "appID": 4,
+          "name": "Open W3schools",
+          "keyCombo": "Ctrl+Alt+R",
+          "actionType": "open_url",
+          "actionData": {
+            "path": "https://www.w3schools.com/cs/index.php",
+            "arguments": ""
+          }
+        },
+        {
+          "id": "open_geeks",
+          "appID": 5,
+          "name": "Open Geeks",
+          "keyCombo": "Ctrl+Alt+T",
+          "actionType": "open_url",
+          "actionData": {
+            "path": "https://www.geeksforgeeks.org/",
+            "arguments": ""
+          }
+        },
+        {
+          "id": "open_chatgpt",
+          "appID": 6,
+          "name": "Open ChatGPT",
+          "keyCombo": "Ctrl+Alt+Y",
+          "actionType": "open_url",
+          "actionData": {
+            "path": "https://chatgpt.com/",
+            "arguments": ""
+          }
+        },
+        {
+          "id": "open_moongrain",
+          "appID": 7,
+          "name": "Open MoonGrain",
+          "keyCombo": "Ctrl+Alt+U",
+          "actionType": "open_url",
+          "actionData": {
+            "path": "https://moongrainstudios.wixstudio.com/projects",
+            "arguments": ""
+          }
+        },
+        {
+          "id": "open_itchio",
+          "appID": 8,
+          "name": "Open itch.io",
+          "keyCombo": "Ctrl+Alt+I",
+          "actionType": "open_url",
+          "actionData": {
+            "path": "itch.io",
+            "arguments": ""
+          }
+        }
+      ]
+    }
+  ]
+}
