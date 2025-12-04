@@ -72,9 +72,8 @@ Placeholder](https://via.placeholder.com/900x500?text=Installation+GIF+Placehold
 
 # 🧩 **How It Works**
 
-### **▶ Shortcut Execution**
+## **▶ Shortcut Execution**
 
-  Keys             Slot
   ---------------- -------------
   * Ctrl + Alt + Q   `appID = 1`
   * Ctrl + Alt + W   `appID = 2`
