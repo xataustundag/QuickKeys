@@ -41,24 +41,24 @@ configuration management.
   Feature           -         Description
   --------------------------- -------------------------------------------
   **Custom Shortcut Slots (8  Each slot has its own `appID` and
-  total)**                    customizable action.
+  total):**                    customizable action.
 
-  **Program Launcher**        Run `.exe` files instantly with a keyboard
+  **Program Launcher:**        Run `.exe` files instantly with a keyboard
                               combination.
 
-  **Website Launcher**        Open URLs in your default browser.
+  **Website Launcher:**        Open URLs in your default browser.
 
-  **Theme Customization**     Change app colors through JSON or via
+  **Theme Customization:**     Change app colors through JSON or via
                               Settings UI.
 
-  **JSON Configuration**      All settings stored in a clean
+  **JSON Configuration:**      All settings stored in a clean
                               `settings.json` file.
 
-  **Settings Panel**          Update colors, shortcuts, URLs, and paths
+  **Settings Panel:**          Update colors, shortcuts, URLs, and paths
                               easily.
 
   **Lightweight Hotkey        Powered by `GetAsyncKeyState` for real-time
-  Engine**                    input detection.
+  Engine:**                    input detection.
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
