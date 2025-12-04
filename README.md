@@ -74,7 +74,6 @@ Placeholder](https://via.placeholder.com/900x500?text=Installation+GIF+Placehold
 
 ## **▶ Shortcut Execution**
 
-  ---------------- -------------
   * Ctrl + Alt + Q   `appID = 1`
   * Ctrl + Alt + W   `appID = 2`
   * Ctrl + Alt + E   `appID = 3`
