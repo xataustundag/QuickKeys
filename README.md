@@ -76,8 +76,8 @@ Placeholder](https://via.placeholder.com/900x500?text=Installation+GIF+Placehold
 
   Keys             Slot
   ---------------- -------------
-  Ctrl + Alt + Q   `appID = 1`
-  Ctrl + Alt + W   `appID = 2`
+  * Ctrl + Alt + Q   `appID = 1`
+  * Ctrl + Alt + W   `appID = 2`
   Ctrl + Alt + E   `appID = 3`
   Ctrl + Alt + R   `appID = 4`
   Ctrl + Alt + T   `appID = 5`
